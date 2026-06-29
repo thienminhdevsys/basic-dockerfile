@@ -1,6 +1,6 @@
 ## Project: Basic Dockerfile
 
-- **Source:** roadmap.sh
+- **Source:** https://roadmap.sh/projects/basic-dockerfile
 - **Phase:** Phase 3 — DevOps Foundation
 - **Goal:** Tạo Dockerfile cơ bản, hiểu image/container lifecycle
 - **Status:** Done
